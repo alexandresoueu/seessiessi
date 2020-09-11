@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(254, 196, 196);
+  display: flex;
+}
+.page-wrapper {
+  background-color: lightgreen;
+}
+section {
+  background-color: lightskyblue;
+}
+section header {
+  background-color: mistyrose;
+}
+.summary {
+  background-color: orangered;
+}
+.preamble {
+  background: orchid;
+}
+aside {
+  background-color: lightslategrey;
+}
+
+.main,
+.supporting {
+  background-color: mediumpurple;
+}
+
+.explanation {
+  background-color: plum;
+}
+.participation {
+  background-color: saddlebrown;
+}
+.benefits {
+  background-color: silver;
+}
+
+.requirements {
+  background-color: tomato;
+}
+.wrapper {
+  background-color: green;
+}
+.design-selection {
+  background-color: hotpink;
+}
+.design-archives {
+  background-color: khaki;
+}
+.zen-resources {
+  background-color: lightseagreen;
+}
